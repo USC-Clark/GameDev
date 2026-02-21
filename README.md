@@ -8,7 +8,7 @@ Week 1 Game Dev Output
 - Screenshot of Week 1 Output
 
 Week 2 Game Dev Output
-Activity 1:
+Activity 1: Gameplay Mechanics
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/7b390363-14ba-444e-893b-8c0e3ce29309" />
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/cdedcb8a-d4a2-4b2f-af5a-309c05bc9d4b" />
