@@ -1,0 +1,40 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://3D/scripts/slime3d.gd" id="1"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_slime"]
+radius = 0.45
+mid_height = 0.5
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_slime"]
+albedo_color = Color(0.337255, 0.835294, 0.945098, 1)
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_slime"]
+radius = 0.45
+height = 1.4
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_hit"]
+radius = 0.8
+
+[node name="Slime3D" type="CharacterBody3D"]
+script = ExtResource("1")
+collision_layer = 4
+collision_mask = 1
+
+[node name="BodyMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("CapsuleMesh_slime")
+surface_material_override/0 = SubResource("StandardMaterial3D_slime")
+position = Vector3(0, 0.7, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("CapsuleShape3D_slime")
+position = Vector3(0, 0.7, 0)
+
+[node name="HitArea" type="Area3D" parent="."]
+collision_layer = 0
+collision_mask = 1
+monitoring = true
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="HitArea"]
+shape = SubResource("SphereShape3D_hit")
+position = Vector3(0, 0.7, 0)

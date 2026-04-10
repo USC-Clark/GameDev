@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Script" path="res://3D/scripts/plant3d.gd" id="1"]
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_plant"]
+top_radius = 0.22
+bottom_radius = 0.35
+height = 2.4
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_plant"]
+albedo_color = Color(0.270588, 0.721569, 0.294118, 1)
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_plant"]
+height = 2.4
+radius = 0.35
+
+[node name="Plant3D" type="Area3D"]
+script = ExtResource("1")
+collision_layer = 2
+collision_mask = 0
+
+[node name="Mesh" type="MeshInstance3D" parent="."]
+position = Vector3(0, 1.2, 0)
+mesh = SubResource("CylinderMesh_plant")
+surface_material_override/0 = SubResource("StandardMaterial3D_plant")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+position = Vector3(0, 1.2, 0)
+shape = SubResource("CylinderShape3D_plant")
