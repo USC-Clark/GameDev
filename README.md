@@ -1,0 +1,45 @@
+# GameDev
+Repo for IT5104N Game Development
+
+Week 1 Game Dev Output
+
+<img width="512" height="257" alt="image" src="https://github.com/user-attachments/assets/a5e2d926-e8dd-46b8-adbb-661faa73a729" />
+
+- Screenshot of Week 1 Output
+
+Week 2 Game Dev Output
+Activity 1: Gameplay Mechanics
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/7b390363-14ba-444e-893b-8c0e3ce29309" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/cdedcb8a-d4a2-4b2f-af5a-309c05bc9d4b" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/31dc3643-8f3f-4074-b14c-4de89610c247" />
+
+Activity 2: Level 2 Design
+<img width="1671" height="883" alt="image" src="https://github.com/user-attachments/assets/0feb9550-04c9-4008-9ae2-38c8c375381d" />
+<img width="1276" height="880" alt="image" src="https://github.com/user-attachments/assets/07ca318f-3a24-4342-96c4-1e72e4a8f53e" />
+
+Week 3
+Activity 1: Activity1 UI/UX & Audio
+<img width="1660" height="883" alt="image" src="https://github.com/user-attachments/assets/665c91b9-1565-43e7-a56a-d9bef2deacbe" />
+<img width="1914" height="1016" alt="image" src="https://github.com/user-attachments/assets/d10406c9-1119-4404-99ba-79fa35b75a77" />
+
+Activity 2: AI & Enemies
+<img width="1918" height="1014" alt="Screenshot 2026-04-10 143324" src="https://github.com/user-attachments/assets/84f76f07-4094-498c-a58b-28a5a6f1c410" />
+<img width="1919" height="1020" alt="Screenshot 2026-04-10 143403" src="https://github.com/user-attachments/assets/b50d1e73-462d-493d-8688-748f4377599e" />
+<img width="1919" height="1016" alt="Screenshot 2026-04-10 143415" src="https://github.com/user-attachments/assets/5278cc54-3d84-4989-8907-3d3a66cd9595" />
+
+Week 4
+Activity 1: 3D Basics
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/898f0f0c-ad5e-4c83-bc0e-c501801a382e" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/1e0c26c5-db8c-4694-b244-b0111822d7a8" />
+![3Ddemo](https://github.com/user-attachments/assets/c00f9de5-a701-45ce-ac63-f50bf541b63f)
+
+Activity 2: Multiplayer
+<img width="1910" height="998" alt="image" src="https://github.com/user-attachments/assets/65fa1d45-1040-41c9-9946-2725701a2a47" />
+<img width="1916" height="1013" alt="image" src="https://github.com/user-attachments/assets/c081242e-d561-4e23-acf0-caa2edea7b62" />
+![MultiplayerDemo](https://github.com/user-attachments/assets/6e02564a-ba0c-4d0b-bab7-e7457638a5c4)
+
+
+
+
+
