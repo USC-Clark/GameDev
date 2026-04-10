@@ -29,5 +29,12 @@ Activity 2: AI & Enemies
 <img width="1919" height="1016" alt="Screenshot 2026-04-10 143415" src="https://github.com/user-attachments/assets/5278cc54-3d84-4989-8907-3d3a66cd9595" />
 
 Week 4
+Multiplayer
+<img width="1910" height="998" alt="image" src="https://github.com/user-attachments/assets/65fa1d45-1040-41c9-9946-2725701a2a47" />
+<img width="1916" height="1013" alt="image" src="https://github.com/user-attachments/assets/c081242e-d561-4e23-acf0-caa2edea7b62" />
+![MultiplayerDemo](https://github.com/user-attachments/assets/6e02564a-ba0c-4d0b-bab7-e7457638a5c4)
+
+
+
 
 
