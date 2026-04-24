@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://scripts/echo.gd" id="1_0hat4"]
+
+[sub_resource type="RectangleShape2D" id="1"]
+size = Vector2(34, 56)
+
+[node name="Echo" type="CharacterBody2D"]
+script = ExtResource("1_0hat4")
+collision_layer = 2
+collision_mask = 20
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("1")
+
+[node name="Visual" type="ColorRect" parent="."]
+offset_left = -17.0
+offset_top = -56.0
+offset_right = 17.0
+offset_bottom = 0.0
+color = Color(0.55, 0.7, 1, 0.65)
